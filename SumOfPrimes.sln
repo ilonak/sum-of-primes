@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfPrimes", "SumOfPrimes\SumOfPrimes.csproj", "{EBC08F6B-08CB-4BD2-9134-B6C31E781B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfPrimes.Tests", "SumOfPrimes.Tests\SumOfPrimes.Tests.csproj", "{B72B856C-0438-435C-BD82-B589F01DE64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC08F6B-08CB-4BD2-9134-B6C31E781B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC08F6B-08CB-4BD2-9134-B6C31E781B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC08F6B-08CB-4BD2-9134-B6C31E781B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC08F6B-08CB-4BD2-9134-B6C31E781B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72B856C-0438-435C-BD82-B589F01DE64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72B856C-0438-435C-BD82-B589F01DE64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72B856C-0438-435C-BD82-B589F01DE64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72B856C-0438-435C-BD82-B589F01DE64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
