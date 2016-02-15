@@ -21,7 +21,7 @@ namespace SumOfPrimes
 		public static uint GetSumOfPrimes(uint primeNumbersCount)
 		{
 			uint found = 0;
-			uint i = 1;
+			uint i = 2;
 			uint sumOfPrimes = 0;
 
 			while (found < primeNumbersCount)
